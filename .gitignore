@@ -128,6 +128,8 @@ iOSInjectionProject/
 /*.gcno
 
 ### Xcode Patch ###
+HappySnappSwiftUI.xcodeproj/
+HappySnappSwiftUI.xcworkspace/
 !*.xcodeproj
 !*.xcworkspace
 !*.xcodeproj/project.pbxproj
